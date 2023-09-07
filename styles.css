@@ -1,0 +1,20 @@
+#numbersContent {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none; /* Disable resizing */
+  }
+  
+body {
+  font-size: 2rem;
+}
+
+#myButton{
+ height: 50px;
+ width: 150px; 
+}
